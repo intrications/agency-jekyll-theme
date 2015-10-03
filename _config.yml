@@ -2,13 +2,13 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Intrications
+email: contact@intrications.com
+description: "Intrications is a Mobile App Development company."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
+  primary: F44336
   secondary: fec503  
   secondary-dark: 333
 
@@ -50,20 +50,20 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+    url: http://twitter.com/intrications
+  # - title: facebook
+    # url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/users/84021/intrications
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/intrications
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/intrications
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 939 Sinope, 26 Ryland Street
+  - line: Birmingham, B16 8FW, United Kingdom
 
 # Build settings
 markdown: kramdown

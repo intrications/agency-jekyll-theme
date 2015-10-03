@@ -176,7 +176,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: 'Codystar', cursive;
+    font-weight: 900;
     color: #{{ site.color.primary }};
 }
 
@@ -266,7 +267,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    /*background-image: url(../img/header-bg.jpg);*/
+    background-color: #000;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -282,10 +284,12 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 22px;
-    font-style: italic;
+    /*font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-size: 30px;
+    /*font-style: italic;*/
     line-height: 22px;
+    font-family: 'Codystar', cursive;
+    font-weight: 900;
 }
 
 header .intro-text .intro-heading {
@@ -305,10 +309,12 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
-        font-style: italic;
+        /*font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+        font-size: 100px;
+        /*font-style: italic;*/
         line-height: 40px;
+        font-family: 'Codystar', cursive;
+        font-weight: 900;
     }
 
     header .intro-text .intro-heading {
@@ -675,10 +681,12 @@ section#contact .form-group textarea {
 
 section#contact .form-group input.form-control {
     height: auto;
+    color: #000;
 }
 
 section#contact .form-group textarea.form-control {
     height: 236px;
+    color: #000;
 }
 
 section#contact .form-control:focus {
