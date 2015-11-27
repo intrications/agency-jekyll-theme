@@ -4,12 +4,12 @@ subtitle: Android App
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: catchthatbus/feature.png
+thumbnail: catchthatbus/feature.png
 alt: image-alt
 project-date: April 2014
 client: Intrications
 category: Mobile Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: <br><p><a href="https://play.google.com/store/apps/details?id=uk.co.ashtonbrsc.catchthatbus"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" width="200" /></a>
 
 ---
