@@ -62,8 +62,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 939 Sinope, 26 Ryland Street
-  - line: Birmingham, B16 8FW, United Kingdom
+  - line: 3 Sabre Court, Windsor Terrace,
+  - line: Falmouth, TR11 3EY, United Kingdom
 
 # Build settings
 markdown: kramdown

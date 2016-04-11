@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary-dark }};
 }
 
@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: 'Codystar', cursive;
+    font-family: 'Codystar', sans-serif;
     font-weight: 900;
     color: #{{ site.color.primary }};
 }
@@ -230,6 +230,10 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
     background-color: #{{ site.color.secondary }};
+}
+
+.portfolio {
+    background-color: #000
 }
 
 @media(min-width:768px) {
