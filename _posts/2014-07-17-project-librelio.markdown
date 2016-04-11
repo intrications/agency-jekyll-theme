@@ -10,7 +10,7 @@ alt: image-alt
 project-date: 2012 - 2015
 client: Librelio
 category: Mobile Development, Android, iOS
-description: I contributed over a number of years to this open source magazine project. <p><a href="https://github.com/libreliodev/android">https://github.com/libreliodev/android</a></p><br><p><a href="https://github.com/libreliodev/ios">https://github.com/libreliodev/ios</a></p>
+description: <img src="/img/portfolio/librelio/banner.png" class="" style="border:0px;margin:10px;width:300px;"><br/><p>I contributed over a number of years to this open source magazine project.</p><br/><p><a href="https://github.com/libreliodev/android">https://github.com/libreliodev/android</a></p><br><p><a href="https://github.com/libreliodev/ios">https://github.com/libreliodev/ios</a></p>
 permalink: portfolio/librelio
 
 ---
