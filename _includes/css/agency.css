@@ -10,6 +10,13 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+.portfolio-description {
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
 .text-muted {
     color: #777;
 }

@@ -2,7 +2,6 @@
 title: GitHub
 subtitle: Open Source Projects
 layout: portfolio_page
-modal-id: 6
 date: 2012-07-16
 img: github/banner.png
 thumbnail: github/banner.png

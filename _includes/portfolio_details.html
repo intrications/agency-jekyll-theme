@@ -1,45 +1,27 @@
  <!-- Portfolio Modals -->
-<!--     <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2"> -->
-                        <!-- <div class="modal-body"> -->
-
-                            <center>
-
-                            <h2>{{ page.title }}</h2>
-                            <!-- <hr class="star-primary"> -->
-                            <!-- <img src="/img/portfolio/{{ page.img }}" class="img-responsive img-centered" width="300" alt="{{ page.alt }}"> -->
-                            <!-- <br/> -->
-                            {{ page.description }}
-                            <br/>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong>{{ page.client }}
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong>{{ page.project-date }}
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong>{{ page.category }}
-                                    </strong>
-                                </li>
-                            </ul>
-
-                            </center>
-                            <!-- <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button> -->
-                        <!-- </div> -->
-                    </div><!-- 
-                </div>
-            </div>
-        </div>
-    </div> -->
+ <div class="portfolio-description">
+    <center>
+        <h2>{{ page.title }}</h2>
+        <!-- <hr class="star-primary"> -->
+        <!-- <img src="/img/portfolio/{{ page.img }}" class="img-responsive img-centered" width="300" alt="{{ page.alt }}"> -->
+        <!-- <br/> -->
+        {{ page.description }}
+        <br/>
+        <br/>
+        <ul class="list-inline item-details">
+            <li>Client:
+                <strong>{{ page.client }}
+                </strong>
+            </li>
+            <li>Date:
+                <strong>{{ page.project-date }}
+                </strong>
+            </li>
+            <li>Service:
+                <strong>{{ page.category }}
+                </strong>
+            </li>
+        </ul>
+        <br/>
+    </center>
+</div>
