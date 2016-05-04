@@ -3,7 +3,7 @@ title: Man Flow Yoga
 subtitle: Android and iOS App, WordPress
 layout: portfolio_page
 modal-id: 1
-date: 2015-01-31
+date: 2016-04-31
 img: manflowyoga/screenshot1.png
 thumbnail: manflowyoga/banner.png
 alt: image-alt
